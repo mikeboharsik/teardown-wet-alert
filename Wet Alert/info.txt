@@ -1,0 +1,3 @@
+name = Wet Alert
+author = Mike Boharsik
+description = Displays whether the player has gotten wet. Intended to help with the achievement "The floor is water".
